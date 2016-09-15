@@ -1,2 +1,2 @@
 # jQuery-rating-system
-simple rating jQuery system
+simple jQuery rating system
